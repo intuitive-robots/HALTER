@@ -9,7 +9,7 @@ online from RGB-D keyframes, and an LLM reasons over that graph to score the
 rollout, to plan a reset over a library of learned atomic reset skills, and to
 verify that the reset succeeded.
 
-Project page: <https://yy-gx.github.io/HALTER/>
+Project page: <https://intuitive-robots.github.io/HALTER/>
 
 ## Repository layout
 
