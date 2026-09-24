@@ -73,20 +73,6 @@ const paperTitle =
     />
     <link rel="apple-touch-icon" href={prefix + "apple-touch-icon.png"} />
 
-    {/* Google Analytics — same property as yy-gx.github.io and LiLo-VLA. */}
-    <script
-      is:inline
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-L4FWDSZJVD"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "G-L4FWDSZJVD");
-    </script>
-
     <link rel="canonical" href={canonical} />
 
     <meta property="og:title" content={title} />
@@ -151,7 +137,7 @@ const paperTitle =
       short="HALTER"
       links={[
         { name: "arXiv", url: "https://arxiv.org/abs/2609.19413" },
-        { name: "Code", url: "https://github.com/YY-GX/HALTER" },
+        { name: "Code", url: "https://github.com/intuitive-robots/HALTER" },
       ]}
     />
     <main id="top">

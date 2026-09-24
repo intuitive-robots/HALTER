@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Build the project page and stage the result at the branch root, which is what
-# GitHub Pages serves at https://yy-gx.github.io/EGR/
+# GitHub Pages serves at https://intuitive-robots.github.io/HALTER/
 #
 #   cd website && ./deploy.sh && cd .. && git add -A && git commit && git push
 set -euo pipefail

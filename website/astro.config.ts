@@ -10,7 +10,7 @@ import astroExpressiveCode from "astro-expressive-code";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://yy-gx.github.io",
+  site: "https://intuitive-robots.github.io",
   base: "/HALTER",
   vite: {
     // rollup's and rolldown's PluginContextMeta types disagree; the plugin runs fine.

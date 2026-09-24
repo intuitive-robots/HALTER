@@ -1,6 +1,6 @@
 # HALTER project page
 
-Source for <https://yy-gx.github.io/HALTER/>. Everything to do with the website
+Source for <https://intuitive-robots.github.io/HALTER/>. Everything to do with the website
 lives on this `gh-pages` branch: the built site sits at the branch root, which
 is what GitHub Pages serves, and its source sits here in `website/`.
 
